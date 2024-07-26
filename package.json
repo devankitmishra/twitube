@@ -1,0 +1,15 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "A backend Project by devankitmishra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "backend"
+  ],
+  "author": "devankitmishra",
+  "license": "ISC"
+}
